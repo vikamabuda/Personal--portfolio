@@ -14,6 +14,7 @@ if(close) {
     })
 };
 
+
 // -----------Google form--------------
 
 const form = document.forms['submit-to-google-sheet'];
